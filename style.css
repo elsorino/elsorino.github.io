@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(40, 42, 54, 1);
+    margin: 40px auto;
+    max-width: 1200px;
+    color: rgba(248, 248, 242, 1);
+    padding: 0 10px
+}
+a,
+a * {
+    color: rgba(80, 250, 123, 1) !important;
+    background-color: transparent !important;
+}
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
