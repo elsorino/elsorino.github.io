@@ -1,6 +1,6 @@
 +++
 date = '2024-11-07T12:29:40+03:00'
-draft = true
+draft = false
 title = 'Woman Called Fujiko Mine Review'
 +++
 
