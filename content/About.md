@@ -1,4 +1,4 @@
-
+I’m elso, a 24 year old guy. I’m also a leftist of the unspecified variety, assume that if you're a leftist I also hold your exact views. My main interests are anime, reading, and working on electronics. I'm probably a NEET but that's such a negative word! Please refer to me as not employed, educated or in training. 
 # Contact info
 
 If for whatever reason, you want to contact me I can be found at:

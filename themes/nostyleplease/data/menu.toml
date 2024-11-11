@@ -2,16 +2,16 @@
 title = "about"
 url = "about"
 
-# [[entries]]
-# title = "posts"
-# 
-#   [entries.post_list]
-#   section = 'posts' 
-#   limit = 5
-#   show_more = false
-#   show_more_text = "See archive..."
-#   show_more_url = "posts"
-# 
+[[entries]]
+title = "posts"
+
+   [entries.post_list]
+   section = 'posts' 
+   limit = 5
+   show_more = false
+   show_more_text = "See archive..."
+   show_more_url = "posts"
+ 
 [[entries]]
 title = "watching list"
 url = "media/watching"
