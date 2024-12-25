@@ -1,7 +1,7 @@
 +++
 date = '2024-12-24T14:07:59+03:00'
 draft = false
-title = 'Ghost in The Shell Manga is fine, not great'
+title = 'Ghost in The Shell Manga has a Major flaw'
 +++
 
 So, as someone who’s a huge fan of Oshii’s movies and Stand Alone Complex, I didn’t enjoy the manga nearly as much for one critical flaw. If you've watched either of those Ghost in The Shell versions, then you'll know that they have “philosophical” stuff to say, especially relating to technology. The manga does too, but it does so in a very crappy way, with author narration outside the panels. This is extremely dumb, such a thing should be interwoven into the story, not large bodies of text that you gotta read outside the story!
