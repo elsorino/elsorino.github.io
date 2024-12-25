@@ -20,6 +20,6 @@ G6RECxpUUkVaT1ItR1BHxQgBAPoYPAMSrAfVfLtlyX2sjd9A9JArCAc0ePxaQZBz
 =x04p  
 -----END PGP PUBLIC KEY BLOCK-----
 
-
+### 
 ### Site Info
 It's made with hugo using the [no style please theme]([https://github.com/riggraz/no-style-please]())
