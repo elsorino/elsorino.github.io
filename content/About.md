@@ -1,4 +1,4 @@
-I’m elso, a 24 year old guy. I’m also a leftist of the unspecified variety, assume that if you're a leftist I also hold your exact views. My main interests are anime, reading, and working on electronics. I'm probably a NEET but that's such a negative word! Please refer to me as not employed, educated or in training. 
+I’m elso, a 25 year old guy. I’m also a leftist of the unspecified variety, assume that if you're a leftist I also hold your exact views. My main interests are anime, reading, and working on electronics. I'm probably a NEET but that's such a negative word! Please refer to me as not employed, educated or in training. 
 # Contact info
 
 If for whatever reason, you want to contact me I can be found at:
@@ -7,19 +7,20 @@ If for whatever reason, you want to contact me I can be found at:
 
 elso @ protonmail DOT com
 
------BEGIN PGP PUBLIC KEY BLOCK-----  
-  
-mDMEAAAAABYJKwYBBAHaRw8BAQdAysBOP/YOSs1Xi+QAUPN4gJfR29ZPnINr4H1Y  
-fw4cvo+0E2Vsc29AcHJvdG9ubWFpbC5jb22IgAQTFggAHAUCAAAAAAILCQIbAwQV  
-CAkKBBYCAwECF4ACHgEAFgkQvyFD4KUbpEQLGlRSRVpPUi1HUEdiIgD7BQmIRQGf  
-+4EsoyIjqjoHIDzL036FmW/bBG1OPuJdrFgBAIvU1YOgdlPePll1Yc2nmVgPnOD7  
-GsgR21ubcRv6dDAPuDgEAAAAABIKKwYBBAGXVQEFAQEHQExIDZ+r2G27s0V4mUmo  
-zZYzw51Uy3hfLoMsiMo/P6xGAwEIB4htBBgWCAAJBQIAAAAAAhsMABYJEL8hQ+Cl  
-G6RECxpUUkVaT1ItR1BHxQgBAPoYPAMSrAfVfLtlyX2sjd9A9JArCAc0ePxaQZBz  
-0CCCAP4ogoUrl6ri8JlNghMQm4GXLlYrnywfD+kMbrjUYVbqDg==  
-=x04p  
------END PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
+mFIEAAAAABMIKoZIzj0DAQcCAwRJ/m7nQWkcz+qPNmSciYvWS2hlX2N4hzESFwiB
+uRQ4o6ZxKBUseV1XzqFa/q4rpmYQ2BusZvPiFmAZT9obsiivtBNlbHNvQHByb3Rv
+bm1haWwuY29tiIAEExMIABwFAgAAAAACCwkCGwMEFQgJCgQWAgMBAheAAh4BABYJ
+EKdP4Z/V02RYCxpUUkVaT1ItR1BHw1UA/0FiPUEPsEjQsRZg6cuRjFlbBKfyR3Q4
+A5ZkcafEKSXGAP9KU4O/6dOZaK2zsQdyxZxBlw5S8DglWy1hRrW211BiZ7hWBAAA
+AAASCCqGSM49AwEHAgMEsDgJnmmGWkt7oj503xH5A9CF7MTBFIGkhOgkjebqGlse
+Wu7dxiC+12a70KiDhUHBSbtmqhGQjc3yt8VT/kj/gAMBCAeIbQQYEwgACQUCAAAA
+AAIbDAAWCRCnT+Gf1dNkWAsaVFJFWk9SLUdQRyU1AP9wv9EZGB0YNVzMzAq3PAAM
+UWFCzk/Rnzz6dUXbHyU6ogD+KtWAa4sYnm6HCV7X7f7aTnncIf74FLG2LoW1of6E
+iek=
+=SKDc
+-----END PGP PUBLIC KEY BLOCK-----
 ### 
 ### Site Info
 It's made with hugo using the [no style please theme]([https://github.com/riggraz/no-style-please]())
