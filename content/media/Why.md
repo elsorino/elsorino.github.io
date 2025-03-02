@@ -1,2 +1,0 @@
-#### Why use this for media tracking?
-If you're wondering why I use my own website for media tracking instead of something like letterboxd or anilist, it's because I prefer having it all in one site. No longer do people like you have to visit both my goodreads and anilist separately. 

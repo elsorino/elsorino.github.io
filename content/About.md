@@ -23,4 +23,4 @@ iek=
 -----END PGP PUBLIC KEY BLOCK-----
 ### 
 ### Site Info
-It's made with hugo using the [no style please theme]([https://github.com/riggraz/no-style-please]())
+It's made with hugo using the [no style please theme][https://github.com/riggraz/no-style-please]

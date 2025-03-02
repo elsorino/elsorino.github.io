@@ -12,7 +12,4 @@ title = "posts"
    show_more_text = "See archive..."
    show_more_url = "posts"
  
-[[entries]]
-title = "watching list"
-url = "media/watching"
 
