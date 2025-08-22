@@ -22,6 +22,7 @@ elsorino on discord
 
 elsorino at disroot dot org
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEAAAAABYJKwYBBAHaRw8BAQdA6O3kboityQ2UdD3ls2sII4t0frTA90KL
@@ -36,6 +37,7 @@ HFHKpooldqntUxi9aw0=
 =Dt98
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
 ### 
 ### Site Info
 It's made with hugo using the [no style please theme][https://github.com/riggraz/no-style-please]
