@@ -13,28 +13,27 @@ Other recommendations for manga are Pink(1989), Devilman(1972) and Bibliomania(2
 
 #### Political views
 I don't know man. Just think of me as an anti-conservative above all else. I'm probably a liberal in the global sense, but I'm not someone who thinks "the left" is evil, any disagreements with those to the left of me is purely over efficiency. I support free trade, free movement, and free people. or something like that. 
-I remain heavily opposed to copyright in it's current form. It is at the least, far too long. Complete abolishment is the best, but significant reform is necessary. Patents to also be opposed, though unlike copyright I think there's a case for "some form" of patent existing is necessary. Mainly because design documents are incredibly useful! Trademark law is mostly fine. I mean I'm totally fine with buying counterfeit products, but I don't think it matters much in it remaining. 
+I remain heavily opposed to copyright in it's current form. It is at the least, far too long. Copyright being abolished is the best, but significant reform is necessary. Patents to also be opposed, though unlike copyright I think there's a case for "some form" of patent existing is necessary. Mainly because design documents are incredibly useful! Trademark law is mostly fine. I'm totally fine with buying counterfeit products, but I don't think it matters much in it remaining. 
 # Contact info
 
 If for whatever reason, you want to contact me I can be found at:
 
 elsorino on discord
 
-elso @ protonmail DOT com
+elsorino@disroot.org
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mFIEAAAAABMIKoZIzj0DAQcCAwRJ/m7nQWkcz+qPNmSciYvWS2hlX2N4hzESFwiB
-uRQ4o6ZxKBUseV1XzqFa/q4rpmYQ2BusZvPiFmAZT9obsiivtBNlbHNvQHByb3Rv
-bm1haWwuY29tiIAEExMIABwFAgAAAAACCwkCGwMEFQgJCgQWAgMBAheAAh4BABYJ
-EKdP4Z/V02RYCxpUUkVaT1ItR1BHw1UA/0FiPUEPsEjQsRZg6cuRjFlbBKfyR3Q4
-A5ZkcafEKSXGAP9KU4O/6dOZaK2zsQdyxZxBlw5S8DglWy1hRrW211BiZ7hWBAAA
-AAASCCqGSM49AwEHAgMEsDgJnmmGWkt7oj503xH5A9CF7MTBFIGkhOgkjebqGlse
-Wu7dxiC+12a70KiDhUHBSbtmqhGQjc3yt8VT/kj/gAMBCAeIbQQYEwgACQUCAAAA
-AAIbDAAWCRCnT+Gf1dNkWAsaVFJFWk9SLUdQRyU1AP9wv9EZGB0YNVzMzAq3PAAM
-UWFCzk/Rnzz6dUXbHyU6ogD+KtWAa4sYnm6HCV7X7f7aTnncIf74FLG2LoW1of6E
-iek=
-=SKDc
+xjMEAAAAABYJKwYBBAHaRw8BAQdA6O3kboityQ2UdD3ls2sII4t0frTA90KL
+jOyQu33IoivNFGVsc29yaW5vQGRpc3Jvb3Qub3JnwoAEExYIABwFAgAAAAAC
+CwkCGwMEFQgJCgQWAgMBAheAAh4BABYJENqf4nTmAIGQCxpUUkVaT1ItR1BH
+MAIBAMjuFRkIiGroZi3looFFT9/KdFA8eOJQrknG61SrHfLDAQDLJioSsI/q
+FDwJUoLb3HGCUMKPpFRDY8jXt5rp6hy6Bc44BAAAAAASCisGAQQBl1UBBQEB
+B0DkU6j5kBZF+R5hKzUEhQVyl1ffHFilTQ05vcIXoWQ+DwMBCAfCbQQYFggA
+CQUCAAAAAAIbDAAWCRDan+J05gCBkAsaVFJFWk9SLUdQRxTPAP4tlWRrCPEG
+Mk5OdJ2YRgYNFFgINqwQnMlZlcKLsKf08gEA3j1W1V5j7kU0H/gFq3IINO1L
+HFHKpooldqntUxi9aw0=
+=Dt98
 -----END PGP PUBLIC KEY BLOCK-----
 ### 
 ### Site Info
