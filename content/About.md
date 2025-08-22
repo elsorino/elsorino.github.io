@@ -20,7 +20,7 @@ If for whatever reason, you want to contact me I can be found at:
 
 elsorino on discord
 
-elsorino@disroot.org
+elsorino at disroot dot org
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -34,6 +34,7 @@ CQUCAAAAAAIbDAAWCRDan+J05gCBkAsaVFJFWk9SLUdQRxTPAP4tlWRrCPEG
 Mk5OdJ2YRgYNFFgINqwQnMlZlcKLsKf08gEA3j1W1V5j7kU0H/gFq3IINO1L
 HFHKpooldqntUxi9aw0=
 =Dt98
+
 -----END PGP PUBLIC KEY BLOCK-----
 ### 
 ### Site Info
