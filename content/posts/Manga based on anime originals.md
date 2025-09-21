@@ -1,5 +1,5 @@
 +++
-date = '2025-03-15T10:11:52+03:00'
+date = '2025-09-21T10:11:52+03:00'
 draft = false
 title = 'Manga based on anime originals'
 +++
